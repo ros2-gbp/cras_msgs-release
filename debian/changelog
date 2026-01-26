@@ -1,0 +1,42 @@
+ros-rolling-cras-msgs (2.0.1-1bookworm) bookworm; urgency=high
+
+  * CI: Fixed name of license lint action
+  * Fixed package website link
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Sun, 25 Jan 2026 23:00:00 -0000
+
+ros-rolling-cras-msgs (2.0.0-1bookworm) bookworm; urgency=high
+
+  * Lint generated message files
+  * Add ros_environment as a build dependency to make ROS_DISTRO available for CMake.
+  * Added CI.
+  * ROS 2 port.
+    master branch is now compatible with both ROS 1 and ROS 2.
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Sun, 25 Jan 2026 23:00:00 -0000
+
+ros-rolling-cras-msgs (1.1.1-1bookworm) bookworm; urgency=high
+
+  * Added power messages.
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Thu, 24 Aug 2023 22:00:00 -0000
+
+ros-rolling-cras-msgs (1.1.0-1bookworm) bookworm; urgency=high
+
+  * Added new messages (mostly for electronic_io).
+  * Clean up undesired includes.
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Wed, 03 May 2023 22:00:00 -0000
+
+ros-rolling-cras-msgs (1.0.1-1bookworm) bookworm; urgency=high
+
+  * Prepared package for release.
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Wed, 29 Mar 2023 22:00:00 -0000
+
+
