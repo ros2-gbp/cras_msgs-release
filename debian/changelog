@@ -1,0 +1,42 @@
+ros-lyrical-cras-msgs (2.0.1-3trixie) trixie; urgency=high
+
+  * CI: Fixed name of license lint action
+  * Fixed package website link
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Mon, 26 Jan 2026 00:00:00 -0000
+
+ros-lyrical-cras-msgs (2.0.0-3trixie) trixie; urgency=high
+
+  * Lint generated message files
+  * Add ros_environment as a build dependency to make ROS_DISTRO available for CMake.
+  * Added CI.
+  * ROS 2 port.
+    master branch is now compatible with both ROS 1 and ROS 2.
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Mon, 26 Jan 2026 00:00:00 -0000
+
+ros-lyrical-cras-msgs (1.1.1-3trixie) trixie; urgency=high
+
+  * Added power messages.
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Fri, 25 Aug 2023 00:00:00 -0000
+
+ros-lyrical-cras-msgs (1.1.0-3trixie) trixie; urgency=high
+
+  * Added new messages (mostly for electronic_io).
+  * Clean up undesired includes.
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Thu, 04 May 2023 00:00:00 -0000
+
+ros-lyrical-cras-msgs (1.0.1-3trixie) trixie; urgency=high
+
+  * Prepared package for release.
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Thu, 30 Mar 2023 00:00:00 -0000
+
+
